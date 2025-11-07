@@ -1,4 +1,4 @@
-# A simple PHP project Built Using MVC Model
+# A simple PHP project Built Using MVC Model and MySQL for Database
 
 ## Home
 <img width="1919" height="868" alt="Screenshot 2025-11-02 025756" src="https://github.com/user-attachments/assets/d6be4d9d-d500-4daf-bcfa-ad5cefb5fd84" />
